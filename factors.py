@@ -24,4 +24,5 @@ try:
             factorize(value)
             line = file.readline()
 except:
+    print("An error occured")
     pass
